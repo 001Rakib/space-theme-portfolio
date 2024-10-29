@@ -253,3 +253,30 @@ export const Backend_skill = [
 //     height: 60,
 //   },
 // ];
+
+export const ProjectData = [
+  {
+    title: "Tech Tips Hub",
+    image: "/tech-tips-projects.png",
+    liveLink: "https://a6-tech-tips-hub.vercel.app/",
+    githubLink: "https://github.com/001Rakib/tech-mystery-client",
+  },
+  {
+    title: "Ride Flex - Car Rental",
+    image: "/ride-flex.png",
+    liveLink: "https://ride-flex-frontend.vercel.app/",
+    githubLink: "https://github.com/001Rakib/car-rental-frontend",
+  },
+  {
+    title: "Camp Venture - Redux Project",
+    image: "/camp-venture.png",
+    liveLink: "https://camp-venture-frontend.vercel.app/",
+    githubLink: "https://github.com/001Rakib/campers-shop-frontend",
+  },
+  {
+    title: "Restaurant Management",
+    image: "/restaurant.png",
+    liveLink: "https://restaurant-management-ea29a.web.app/",
+    githubLink: "https://github.com/001Rakib/a-11-reataurant-managements",
+  },
+];
